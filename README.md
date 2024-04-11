@@ -1,2 +1,2 @@
 # RedeemBin
-Solvathon 24 solution
+Solve-a-thon 24 solution
